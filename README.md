@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Levacker/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Math
+|  |
+| ------- |
+| [3908-valid-digit-number](https://github.com/Levacker/LeetCode/tree/master/3908-valid-digit-number) |
 <!---LeetCode Topics End-->
