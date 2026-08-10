@@ -1,8 +1,5 @@
 class Solution:
     def validDigit(self, n: int, x: int) -> bool:
-        
-        if not n:
-            return False
 
         numString1 = str(n)
         numString2 = str(x)
