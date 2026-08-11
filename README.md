@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1710-maximum-units-on-a-truck](https://github.com/Levacker/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Levacker/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Levacker/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## String
 |  |
@@ -32,4 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1710-maximum-units-on-a-truck](https://github.com/Levacker/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Levacker/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
+## Hash Table
+|  |
+| ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Levacker/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
+## Counting
+|  |
+| ------- |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Levacker/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 <!---LeetCode Topics End-->
