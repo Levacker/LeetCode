@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Levacker/LeetCode/tree/master/0029-divide-two-integers) |
 | [1009-complement-of-base-10-integer](https://github.com/Levacker/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 ## Array
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Levacker/LeetCode/tree/master/0029-divide-two-integers) |
 | [3908-valid-digit-number](https://github.com/Levacker/LeetCode/tree/master/3908-valid-digit-number) |
 ## Greedy
 |  |
