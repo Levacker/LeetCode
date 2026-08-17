@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Levacker/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0046-permutations](https://github.com/Levacker/LeetCode/tree/master/0046-permutations) |
 | [1710-maximum-units-on-a-truck](https://github.com/Levacker/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Levacker/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Levacker/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Levacker/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Levacker/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
