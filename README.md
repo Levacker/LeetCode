@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Levacker/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0036-valid-sudoku](https://github.com/Levacker/LeetCode/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Levacker/LeetCode/tree/master/0046-permutations) |
 | [1710-maximum-units-on-a-truck](https://github.com/Levacker/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Levacker/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Levacker/LeetCode/tree/master/0036-valid-sudoku) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Levacker/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Counting
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Levacker/LeetCode/tree/master/0046-permutations) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Levacker/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
