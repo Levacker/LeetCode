@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Levacker/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/Levacker/LeetCode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Levacker/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Trie
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1663-smallest-string-with-a-given-numeric-value](https://github.com/Levacker/LeetCode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1710-maximum-units-on-a-truck](https://github.com/Levacker/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Sorting
 |  |
