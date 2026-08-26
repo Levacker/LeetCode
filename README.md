@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Levacker/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Levacker/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Levacker/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [3206-alternating-groups-i](https://github.com/Levacker/LeetCode/tree/master/3206-alternating-groups-i) |
 ## String
 |  |
 | ------- |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Levacker/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [3206-alternating-groups-i](https://github.com/Levacker/LeetCode/tree/master/3206-alternating-groups-i) |
 <!---LeetCode Topics End-->
