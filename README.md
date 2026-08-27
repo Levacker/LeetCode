@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Levacker/LeetCode/tree/master/0029-divide-two-integers) |
+| [0492-construct-the-rectangle](https://github.com/Levacker/LeetCode/tree/master/0492-construct-the-rectangle) |
 | [3908-valid-digit-number](https://github.com/Levacker/LeetCode/tree/master/3908-valid-digit-number) |
 ## Greedy
 |  |
