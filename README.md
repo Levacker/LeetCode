@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Levacker/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Levacker/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/Levacker/LeetCode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Levacker/LeetCode/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Trie
@@ -49,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Levacker/LeetCode/tree/master/0036-valid-sudoku) |
+| [0387-first-unique-character-in-a-string](https://github.com/Levacker/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Levacker/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Levacker/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Levacker/LeetCode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Binary Search
 |  |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3206-alternating-groups-i](https://github.com/Levacker/LeetCode/tree/master/3206-alternating-groups-i) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Levacker/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
